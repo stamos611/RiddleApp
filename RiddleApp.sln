@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiddleApp", "RiddleApp\RiddleApp.csproj", "{F08AE6EB-921D-47F4-A640-25E0B1AFE474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F08AE6EB-921D-47F4-A640-25E0B1AFE474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F08AE6EB-921D-47F4-A640-25E0B1AFE474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F08AE6EB-921D-47F4-A640-25E0B1AFE474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F08AE6EB-921D-47F4-A640-25E0B1AFE474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B24A7D6-59A0-4234-A1BF-76DDFFB0E794}
+	EndGlobalSection
+EndGlobal
